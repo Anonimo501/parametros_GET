@@ -1,5 +1,12 @@
 ?file=
+?dir=
+?board=
+?date=
 ?path=
+?include=
+?prefix=
+?forder=
+?detail=
 ?pg=
 ?doc=
 ?folder=
@@ -11,9 +18,11 @@
 ?subpage=
 ?sub=
 ?article=
+?site=
 ?inc=
 ?lib=
 ?mod=
+?locate=
 ?conf=
 ?config=
 ?download=
